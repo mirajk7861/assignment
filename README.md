@@ -84,8 +84,8 @@ Cypress.on('test:after:run', (test, runnable) => {
 	•	HTML Report: You can open the .html file in your browser to view the detailed test report with embedded screenshots and charts.
 	•	JSON Report: This can be used for further processing or combined with other reports.
 	To run tests in this project:
-
-_1. Navigate to your directory\Make my\Make my
+Pull code from master
+_1. Navigate to <your local directory\Make my\Make my>
 2. Run the command : npx cypress run --spec "cypress/e2e/tests/test_salary_insight_spec.cy.js" --headed --browser chrome
 3. Then the tests will open in browser and once the test executed the reports are generated at directory\Make my\Make my\reports\index.html_
 
