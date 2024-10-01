@@ -1,0 +1,37 @@
+{
+  "testCases": [
+    {
+      "input": {
+        "role": "Accountant",
+        "country": "Brazil"
+      },
+      "expected": {
+        "role": "Accountant",
+        "country": "Brazil",
+        "currency": "BRL"
+      }
+    },
+    {
+      "input": {
+        "role": "QA Engineer",
+        "country": "Canada"
+      },
+      "expected": {
+        "role": "QA Engineer",
+        "country": "Canada",
+        "currency": "CAD"
+      }
+    },
+    {
+      "input": {
+        "role": "Software Engineer",
+        "country": "Japan"
+      },
+      "expected": {
+        "role": "Software Engineer",
+        "country": "Japan",
+        "currency": "JPY"
+      }
+    }
+  ]
+}
