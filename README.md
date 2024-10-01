@@ -1,3 +1,5 @@
+Read below for step by step process of framework setup and running tests
+
 **Step 1: Install Node.js (if not already installed)**
 Cypress and npm come with Node.js, so you'll need to install node.js first.
   1.	Download Node.js:
